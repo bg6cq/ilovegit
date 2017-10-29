@@ -27,4 +27,5 @@
 I love git, I am from USA.
 
 USA? Your Chinese is prettty good~
+
 我喜欢git，我是来自北京大学的高宜琛。
