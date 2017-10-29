@@ -25,3 +25,4 @@
 我喜欢git，我是来自中国科大的李会民。
 
 I love git, I am from USA.
+USA? Your Chinese is prettty good~
