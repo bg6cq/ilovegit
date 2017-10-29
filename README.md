@@ -32,3 +32,5 @@ USA? Your Chinese is prettty good~
 
 这是分支myGitTest的修改。
 
+这是rebase的修改。
+
