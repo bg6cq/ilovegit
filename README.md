@@ -27,3 +27,4 @@
 I love git, I am from USA.
 
 我喜欢git，我是来自北京大学的高宜琛。
+我喜欢git,我是来自中科大的测试用户。
