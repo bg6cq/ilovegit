@@ -31,3 +31,5 @@ I love git, I am from USA.
 我喜欢git，我是来自中科大的测试用户。
 
 I love git, I am from Sichuan。
+
+This is the mytest branch.
