@@ -39,3 +39,5 @@ I love git, and I'm a test user from UCAS
 我是来自阜阳幼儿师范高等专科学校的朱琪
 
 I love git, I come from jx
+
+我喜欢git，我是来自中科大的测试用户。user02
