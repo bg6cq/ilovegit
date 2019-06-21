@@ -41,4 +41,5 @@ I love git, and I'm a test user from UCAS
 I love git, I come from jx
 
 我喜欢git，我是来自中科大的测试用户。user02
-在物联网软件、办公软件研发对C、java、python等进行版本控制，我是来自安徽开放大学的 赵赛
+
+软件研发对C、java、python等进行版本控制，我是来自安徽开放大学的 赵赛
