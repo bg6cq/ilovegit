@@ -42,3 +42,5 @@ I love git, I come from jx
 
 我喜欢git，我是来自中科大的测试用户。user02
 我喜欢git，我是来自安徽公安学院的马玉州。
+i love git,我是来自安徽大学的测试用户。
+i love git,我是来自安徽大学的CXF。
