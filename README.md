@@ -51,4 +51,6 @@ i love git,我是来自安徽大学的CXF。
 我喜欢git，我是来自东北林业大学的 sfc9982.
 
 i love git, from SUDA.
-我喜欢 git，我是来自国科大的测试用户.
+
+我喜欢 git，我是来自国科大的测试用户。
+
